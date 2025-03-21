@@ -9,5 +9,5 @@ if (mainElement) {
 const newHeader = document.createElement('h1');
 
 newHeader.id = 'victory';
-newHeader.textContent = "MERCY is the champion";
+newHeader.textContent = "ENOCK is the champion";
 document.body.appendChild(newHeader);
